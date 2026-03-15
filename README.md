@@ -1,5 +1,5 @@
 
-# Hi , I'm kw_trang 👋 (kimchan-kieutrang)
+# Hi , I'm kw_trang 👋
 
 ### A passionate Java developer
 
